@@ -1,0 +1,12 @@
+# environment
+*.env
+.env
+
+# logging
+*.log
+
+# MAC
+.DS_Store
+
+# executable
+*.exe
